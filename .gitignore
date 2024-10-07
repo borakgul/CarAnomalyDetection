@@ -1,0 +1,66 @@
+# Ignore Visual Studio temporary files, build results, and
+# build logs.
+# User-specific files
+.vscode/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files for project specific caches
+.vs/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Oo]ut/
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+# The packages folder can be ignored because of the package restore feature in Visual Studio
+**/[Pp]ackages/
+# except build/, which is used as an MSBuild target.
+!/[Pp]ackages/build/
+
+# Entity Framework migrations history
+Migrations/
+
+# User settings
+*.ide/
+*.config
+*.sqlite
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Other system files
+*.DS_Store
+*.log
+*.bak
+*.orig
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# File-based SQL databases
+*.mdf
+*.ldf
+*.ndf
+
+# Rider project files
+.idea/
+images/
