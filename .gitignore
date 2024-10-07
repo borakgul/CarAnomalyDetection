@@ -11,6 +11,7 @@
 # Auto-generated files for project specific caches
 .vs/
 .vscode/
+.img/
 
 # Build results
 [Dd]ebug/
@@ -60,7 +61,8 @@ ehthumbs.db
 *.mdf
 *.ldf
 *.ndf
+*.jpg
 
 # Rider project files
 .idea/
-images/
+img/

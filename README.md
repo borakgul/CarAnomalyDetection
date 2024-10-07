@@ -49,18 +49,18 @@ Below are some of the outcomes and results of the Driver Drowsiness Detection an
 
 ### Eye Detection Example
 
-![Eye Detection](İmage/Göz-Tanıma.jpg/.)
+![Eye Detection](img/Göz-Tanıma.jpg/.)
 
 The algorithms tested on the database (Haar Cascade and LBP Cascade) achieved the highest success rates compared to other results. Using the Haar Cascade classifier, the optimal detectMultiScale values for detecting eyes were determined to be "roi_gray, 1.3, 5". The method was used for sample face and eye detection.
 
 ### Face Detection Example
 
-![Face Detection](İmage/Yüz-Tanıma.jpg/.)
+![Face Detection](img/Yüz-Tanıma.jpg/.)
 
 Detection of the faces of individuals whose data has been uploaded to the system.
 
 ### Alert Trigger Example
 
-![Alert System](İmage/Anomaly%20Detection.jpg/.)
+![Alert System](img/Anomaly%20Detection.jpg/.)
 
 When an abnormal eye condition is detected, a warning is given as shown. At the same time, an alarm is activated to alert the driver.
