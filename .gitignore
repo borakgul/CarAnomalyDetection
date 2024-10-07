@@ -61,7 +61,6 @@ ehthumbs.db
 *.mdf
 *.ldf
 *.ndf
-*.jpg
 
 # Rider project files
 .idea/
